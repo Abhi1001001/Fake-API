@@ -1,5 +1,4 @@
 {
-    "bestseller":[
         {
             "image": "./images/bag-bestseller.jpg",
             "id": 1,
@@ -50,5 +49,4 @@
             "catagorie":"bestseller",
             "title": "Mi Tab 6GB 128GB 12MP Rear 8MP Front, lightweight"
         }
-    ]
 }
